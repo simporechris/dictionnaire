@@ -1,5 +1,6 @@
 ls_epicerie = ["Pomme","Pain","Lait","Riz","Tomate","Œufs","Beurre","Fromage","Pâtes","Café"]
-print(ls_epicerie.sort())
+(ls_epicerie.sort())
+print(ls_epicerie)
 
 dict_jeux = {
     "titre": "Fortnite",
